@@ -1,5 +1,5 @@
 # frpc-docker
-frpc docker build
+frpc(frp client) docker build
 
 This tiny(only 7.3MB) frpc image is built with busybox.
 
